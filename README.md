@@ -8,90 +8,81 @@
 <img align="right" width="400" height="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### 🧠 About Me
-- 🎯 **Mission**: Architecting scalable solutions that bridge **Frontend Magic** + **Backend Power** + **AI Intelligence**
-- 🌱 **Currently Mastering**: Advanced AI/ML algorithms, NLP models, and Web3 integrations
-- 🎮 **When not coding**: Gaming sessions and planning my epic Japan adventure 🇯🇵
-- 🏛️ **Education**: Computer Science @ **SRM Ramapuram** | CGPA: **9.05** ⭐
-- ⚡ **Philosophy**: *"Code is poetry, and every bug is just a plot twist"*
-
-<br clear="right"/>
+- 🎯 **Mission**: Designing seamless ecosystems powered by **Frontend Magic**, **Backend Brains**, and **AI Ingenuity**
+- 🌱 **Mastering**: NLP, AI/ML Pipelines, and Web3 dApps
+- 🎮 **Beyond Code**: Competitive gaming, anime, and future travels to Japan 🇯🇵
+- 🏛️ **Proudly @ SRM Ramapuram** – CGPA **9.05**
+- ⚡ **Philosophy**: *"Every line of code is a line of story"*
 
 ---
 
-## 🏆 Achievement Showcase
+## 🏆 Achievements
 
 <div align="center">
-  
-| 🥈 **2nd Prize** | 🎓 **Academic Excellence** | 🧑‍🏫 **Mentorship** | 💡 **Community Impact** |
-|:---:|:---:|:---:|:---:|
-| Season of Solution | CGPA: 9.05 (Sem 2) | UI/UX Bootcamp Mentor | DSC Club Frontend Teacher |
-| *UI/UX + Dev Contest* | *8.7 (Sem 1)* | *3-day intensive program* | *Empowering next-gen developers* |
+
+| 🥈 **2nd Prize** | 🎓 **Academic Star** | 🧑‍🏫 **Mentor Role** | 💡 **Community Builder** |
+|:---------------:|:-------------------:|:------------------:|:------------------------:|
+| Season of Solution | CGPA: 9.05 (Sem 2) | UI/UX Bootcamp (3 Days) | Frontend Mentor - DSC |
 
 </div>
 
 ---
 
-## 🛠️ Project Arsenal
+## 🚧 Projects Worth Noting
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔍 **Fake Product Identifier**
-*AI + Web3 Revolution*
+### 🔍 Fake Product Identifier
 ```
-🤖 AI-powered counterfeit detection
-🔗 Blockchain-secured data storage  
-📱 Barcode scanning integration
-🛡️ Trust & authenticity guarantee
-```
-
-### 💼 **Resume Reviewer**
-*Career Intelligence Platform*
-```
-📊 AI-based resume scoring
-🎯 Personalized job recommendations
-🤖 Interactive chatbot guidance
-📈 Career growth insights
+🤖 AI for fake product detection
+🔗 Secured with Web3
+📲 Barcode scanner powered UI
+🛡️ Fighting counterfeits at scale
 ```
 
-### 🏥 **MediOrder**
-*Healthcare E-commerce*
+### 💼 Resume Reviewer
 ```
-💊 Full-stack medication platform
-🗄️ Advanced DBMS architecture
-🔄 Real-time order tracking
-👨‍⚕️ Prescription management
+📊 Resume scoring with AI
+🔍 Job mapping engine
+🤖 Chatbot support
+🎓 Tailored career paths
+```
+
+### 🏥 MediOrder
+```
+💊 Medicine ordering system
+📦 Inventory + order tracking
+📄 Prescription uploads
+🔧 Built with Django, DBMS
 ```
 
 </td>
 <td width="50%">
 
-### 🏠 **Home Renovation System**
-*Smart Construction Planner*
+### 🏠 Home Renovation Planner
 ```
-📐 Budget-based planning tool
-🛒 Material procurement system
-📋 Project timeline management
-💰 Cost optimization engine
-```
-
-### 🛡️ **Credit Card Fraud Detection**
-*ML Security Guardian*
-```
-🧠 Advanced ML algorithms
-⚡ Real-time fraud detection
-🎨 Intuitive dashboard design
-🔒 Financial security enhancement
+📐 Budget-based project planning
+🛒 Smart procurement guide
+🗂️ Timeline & cost tracking
+👷 Built with React + Firebase
 ```
 
-### 🎮 **Gaming Corner**
-*Personal Passion Projects*
+### 🛡️ Fraud Detection System
 ```
-🕹️ Indie game experiments
-🎯 Interactive web experiences
-🎨 Creative coding challenges
-🚀 Fun side projects
+🧠 Trained ML models
+⚡ Real-time credit fraud alerts
+📊 Admin dashboards
+🔐 Fintech-ready APIs
+```
+
+### 🎮 Game Dev Projects
+```
+🎯 Indie HTML5 games
+🧠 Logic puzzles in JS
+🎨 Visual storytelling
+🚀 Hosted on GitHub Pages
 ```
 
 </td>
@@ -100,63 +91,53 @@
 
 ---
 
-## 💻 Tech Stack Universe
+## 🧰 Tech Arsenal
 
 <div align="center">
 
-### **Frontend Mastery**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### 💻 Frontend
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### **Backend Architecture**
+### 🔙 Backend
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **AI/ML & Data Science**
+### 🧠 AI/ML + Data
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### **Design & Development Tools**
+### 🎨 Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=black)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Insights
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adivigneshwar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adivigneshwar&layout=compact&langs_count=8&theme=tokyonight"/>
 
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adivigneshwar&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-  
-[![Adivigneshwaran's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adivigneshwar&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Adivigneshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adivigneshwar&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adivigneshwar&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adivigneshwar&theme=tokyonight)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adivigneshwar&theme=react-dark)](https://github.com/Adivigneshwar)
 
 </div>
 
 ---
 
-## 🎯 Current Learning Path
+## 🚀 Learning Journey
 
 <div align="center">
 
@@ -165,15 +146,15 @@ graph LR
     A[Advanced NLP] --> B[GPT Fine-tuning]
     B --> C[Web3 dApps]
     C --> D[MLOps Pipeline]
-    D --> E[Cloud Architecture]
-    E --> F[System Design]
+    D --> E[Cloud Native Systems]
+    E --> F[System Design Principles]
 ```
 
 </div>
 
 ---
 
-## 🌟 Let's Connect & Collaborate
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -186,32 +167,25 @@ graph LR
 
 ---
 
-## 💡 Fun Facts & Interests
+## 🎯 Interests & Goals
 
 <div align="center">
-  
-🎮 **Gaming Enthusiast** | 🍜 **Anime Culture Explorer** | 🇯🇵 **Future Japan Traveler**
-  
-🎯 **2024 Goals**: Master GraphQL • Build SaaS Product • Contribute to Open Source • Visit Tokyo
-  
-</div>
 
----
-
-<div align="center">
-  
-### 🔥 *"Architecture is not just about building systems, it's about crafting experiences that matter"*
-
-<img src="https://komarev.com/ghpvc/?username=Adivigneshwar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
-**⭐ If my work resonates with you, don't forget to star some repositories!**
+🎮 Gaming | 🍥 Anime | ✈️ Japan-bound Explorer  
+📌 **2024 Goals**: SaaS product launch • GraphQL mastery • Open Source streak • Tokyo meetup
 
 </div>
 
 ---
 
 <div align="center">
-  
+
+> 🔥 "Architecture isn't just about code; it's about creating digital stories people want to use."
+
+![Profile Views](https://komarev.com/ghpvc/?username=Adivigneshwar&label=Profile%20Views&color=0e75b6&style=flat)
+
+⭐ *If something here inspires you, show some ❤️ by starring a repo!*
+
 ![Snake animation](https://github.com/Adivigneshwar/Adivigneshwar/blob/output/github-contribution-grid-snake.svg)
 
 </div>
